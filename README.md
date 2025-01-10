@@ -28,7 +28,7 @@ This Python project utilizes OpenCV to apply **green screen effects** to video f
 
 3.**Select a Patch:** 
   Click on the video window to select a patch of the background to determine the green color to be replaced.
-
+  
 4. **Output:**
    The processed video is saved as **output_video.mp4** and will display in a separate window. Press **ESC** to stop the video and exit the program.
 
