@@ -29,12 +29,4 @@ This Python project utilizes OpenCV to apply **green screen effects** to video f
 
 ---
 
-`green-screen-video-processing/
-│
-├── green_screen_video_processing.py  # Main script for processing videos
-├── greenscreen-asteroid.mp4          # Input video (example)
-├── demos/                           # Folder containing demo videos
-│   ├── input_video.mp4              # Original input video for demo
-│   ├── output_video.mp4             # Processed video demo
-└── README.md                        # Project documentation
-`
+
