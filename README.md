@@ -1,6 +1,8 @@
 # Green Screen Video Processing with Dynamic Backgrounds
 
 This Python project utilizes OpenCV to apply **green screen effects** to video files. The program allows dynamic control over the green screen's tolerance, softness, and background color through interactive sliders. It uses a mouse-click to select a reference patch for background removal and applies a gradient-based background that changes over time.
+
+
 ![Alt text](greenscreeneffect.png)
 ---
 
