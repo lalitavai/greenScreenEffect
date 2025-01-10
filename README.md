@@ -17,17 +17,20 @@ This Python project utilizes OpenCV to apply **green screen effects** to video f
 ---
 
 **Usage**
+
 1.**Run the script:**
 `python green_screen_video_processing.py`
 
 2. **Adjust Sliders:** Use the sliders to control:
--   Tolerance: Adjusts how much green is detected (0-100).
--   Softness: Controls the smoothness of the mask (1-20).
--   Background Color: Set the RGB values of the dynamic background.
+  -   Tolerance: Adjusts how much green is detected (0-100).
+  -   Softness: Controls the smoothness of the mask (1-20).
+  -   Background Color: Set the RGB values of the dynamic background.
 
-3.**Select a Patch:** Click on the video window to select a patch of the background to determine the green color to be replaced.
+3.**Select a Patch:** 
+  Click on the video window to select a patch of the background to determine the green color to be replaced.
 
-4. **Output:** The processed video is saved as **output_video.mp4** and will display in a separate window. Press **ESC** to stop the video and exit the program.
+4. **Output:**
+   The processed video is saved as **output_video.mp4** and will display in a separate window. Press **ESC** to stop the video and exit the program.
 
 ---
 
